@@ -45,8 +45,8 @@ This algorithm is especially useful for **large datasets with multi-limb integer
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/PipeSort-Radix-Branch.git
-cd PipeSort-Radix-Branch
+git clone https://github.com/perke0/PipeSort.git
+cd PipeSort
 ```
 
 2. Compile:
