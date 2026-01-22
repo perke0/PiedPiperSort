@@ -1,4 +1,4 @@
-# Pipe Sort (Radix-Branch)
+# Pipe Sort
 
 **Pipe Sort (Radix-Branch)** is a high-performance sorting algorithm optimized for **wide integers** (128-bit, 256-bit, or larger).  
 It sorts numbers **bit by bit**, starting from the most significant bit, and **skips identical high bits** for faster performance.  
