@@ -115,7 +115,7 @@ For 128-bit integers (2 limbs), imagine a recursion tree:
 
 ## License
 
-MIT License @ Matija Perovic
+Apache 2.0 License @ Matija Perovic
 
 ## Acknowledgements
 
