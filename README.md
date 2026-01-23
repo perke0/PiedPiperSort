@@ -60,5 +60,5 @@ g++ -O3 -march=native main.cpp pipe_sort.cpp -o piedpipersort
 
 ## License
 
-MIT License © Matija Perović
+Apache 2.0 License @ Matija Perovic
 
